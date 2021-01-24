@@ -5,4 +5,5 @@ Comandos:
 
 - `npm run watch`
 
+**PREVIEW**
 ![Card Preview](/public/images/preview.png)
