@@ -1,4 +1,6 @@
-<h1>Comandos<h1>
-`npm install`
-`npm run start`
-`npm run watch`
+Instalar todos las dependencias de tailwind `npm install`
+
+Comandos: 
+- `npm run start`
+
+- `npm run watch`
