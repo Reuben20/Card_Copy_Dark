@@ -5,4 +5,4 @@ Comandos:
 
 - `npm run watch`
 
-[Card Preview](https://gitlab.com/rubencamcalderon/card_copy_dark/-/blob/master/public/images/preview.png)
+![Card Preview](/public/images/preview.png)
